@@ -30,7 +30,6 @@ This repository is organized into three main sections:
 ### Installation
 If you need to set up a SQL environment, here are some resources:
 - [MySQL Installation Guide](https://dev.mysql.com/doc/refman/8.0/en/installing.html)
-- [PostgreSQL Installation Guide](https://www.postgresql.org/download/)
 - [SQLite Installation Guide](https://www.sqlite.org/download.html)
 
 ## 🤝 **Contributing**
